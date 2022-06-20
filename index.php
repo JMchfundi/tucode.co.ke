@@ -11,7 +11,7 @@
     <div class="container">
       <div class="row">
         <div class="col-xl-4">
-          <h2 data-aos="fade-up">We Let You Focus On What Matter</h2>
+          <h2 data-aos="fade-up">Solutions We Can Trust</h2>
           <blockquote data-aos="fade-up" data-aos-delay="100">
             <p>For End To End, Day To Day, Hour To Hour Operations We Are There For
               We Let You Focus On Management And Other Critical Matters
@@ -20,7 +20,7 @@
           </blockquote>
           <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
             <a href="#about" class="btn-get-started">Get Started</a>
-            <a href="#" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
+            <a href="about-video.php" class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch Video</span></a>
           </div>
 
         </div>
@@ -29,9 +29,6 @@
   </section><!-- End Hero Section -->
 
   <main id="main">
-
-    <!-- ======= Why Choose Us Section ======= -->
-    <?php include "why-us.php";?>
 
     <!-- ======= Recent Blog Posts Section ======= -->
     <!-- <section id="recent-posts" class="recent-posts">
@@ -104,8 +101,7 @@
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <?php include "fragments/footer.php";?>
-
+  
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <div id="preloader"></div>
