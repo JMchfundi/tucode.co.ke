@@ -25,7 +25,7 @@
             <!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon flex-shrink-0"><i class="bi bi-card-checklist" style="color: #15a04a;"></i></div>
+              <div class="icon flex-shrink-0"><i class="bi bi-globe" style="color: #15a04a;"></i></div>
               <div>
                 <h4 class="title"><a href="#" class="stretched-link">Web Designing</a></h4>
                 <p class="description">Website is the fast thing a client looks into to know more about your services, team, portfolio, company backgeround and many more.
@@ -37,7 +37,7 @@
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon flex-shrink-0"><i class="bi bi-bar-chart" style="color: #d90769;"></i></div>
+              <div class="icon flex-shrink-0"><i class="bi bi-file-earmark-pdf" style="color: #d90769;"></i></div>
               <div>
                 <h4 class="title"><a href="#" class="stretched-link">Project Management</a></h4>
                 <p class="description">You are a student!!! Approaching end of your course! Need a hand to show you how things are implemented online, 
@@ -53,7 +53,7 @@
             </div><!-- End Service Item -->
 
             <div class="col-lg-6 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="400">
-              <div class="icon flex-shrink-0"><i class="bi bi-binoculars" style="color: #15bfbc;"></i></div>
+              <div class="icon flex-shrink-0"><i class="bi bi-laptop" style="color: #15bfbc;"></i></div>
               <div>
                 <h4 class="title"><a href="#" class="stretched-link">System Development & RestFul API</a></h4>
                 <p class="description">
@@ -65,7 +65,7 @@
             </div><!-- End Service Item -->
 
             <div class="col-lg-6 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="500">
-              <div class="icon flex-shrink-0"><i class="bi bi-brightness-high" style="color: #f5cf13;"></i></div>
+              <div class="icon flex-shrink-0"><i class="bi bi-wordpress" style="color: #f5cf13;"></i></div>
               <div>
                 <h4 class="title"><a href="#" class="stretched-link">e-Services & Content Management</a></h4>
                 <p class="description">From Social Media Management to Blogging, our team is there for you, weekly, daily & hourly 24/7 services you can trust</p>
