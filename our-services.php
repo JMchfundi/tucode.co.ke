@@ -47,7 +47,7 @@
                   need someone to help you implement the idea online,
                   need a technical document on how your system will work-out, 
                   You had the dream to do something but with
-                  little know-how, Worry Less!!! Just <a href="contact.php">Give A Call</a> and we will be right there till all is done. 
+                  little know-how, Worry Less!!! Just <a href="contact.php">Get In Touch</a> and we will be right there till all is done. 
                 </p>
               </div>
             </div><!-- End Service Item -->
