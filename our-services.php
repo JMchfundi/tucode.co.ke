@@ -100,7 +100,7 @@
                     <div class="card-body">
                       <h4 class="card-title">JUHibernate.</h4>
                       <p>Java Eclipse Project Sample For Hibernate UnderDevelopment....
-                        Java Based Project For Hibernate Programmers... Still On Development...</p>
+                        Java Based Project For Hibernate Programmers...</p>
                     </div>
                   </div>
                 </div>
