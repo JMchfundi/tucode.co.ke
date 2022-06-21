@@ -85,7 +85,7 @@
       </section><!-- End Our Services Section -->
 
       <!-- ======= Services Cards Section ======= -->
-      <!-- <section id="services-cards" class="services-cards">
+      <section id="services-cards" class="services-cards">
         <div class="container" data-aos="fade-up">
 
           <div class="row gy-4">
@@ -98,15 +98,16 @@
                   </div>
                   <div class="col-xl-7 d-flex align-items-center">
                     <div class="card-body">
-                      <h4 class="card-title">Eligendi omnis sunt veritatis.</h4>
-                      <p>Fuga in dolorum et iste et culpa. Commodi possimus nesciunt modi voluptatem placeat deleniti adipisci. Cum delectus doloribus non veritatis. Officia temporibus illo magnam. Dolor eos et.</p>
+                      <h4 class="card-title">JUHibernate.</h4>
+                      <p>Java Eclipse Project Sample For Hibernate UnderDevelopment....
+                        Java Based Project For Hibernate Programmers... Still On Development...</p>
                     </div>
                   </div>
                 </div>
               </div>
             </div>
 
-            <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
+            <!-- <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
               <div class="card-item">
                 <div class="row">
                   <div class="col-xl-5">
@@ -152,12 +153,12 @@
                   </div>
                 </div>
               </div>
-            </div>
+            </div> -->
 
           </div>
 
         </div>
-      </section> -->      
+      </section>      
       <!-- End Services Cards Section -->
   </body>
 
