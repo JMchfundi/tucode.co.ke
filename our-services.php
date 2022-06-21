@@ -9,6 +9,7 @@
 
           <div class="section-header">
             <h2>Our Services</h2>
+
           </div>
 
           <div class="row gy-5">
@@ -16,56 +17,62 @@
             <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
               <div class="icon flex-shrink-0"><i class="bi bi-windows" style="color: #f57813;"></i></div>
               <div>
-                <h4 class="title"><a href="#" class="stretched-link">Sofware Installations & Configarations</a></h4>
-                <p class="description">The base of the user interaction between the so called machines known as Laptops/Computers are the Sofwares i.e:
-                  System Sofwares and User Softwares.We manage how you want your systems be configured and customised as we do the installations, we as well accept new challenges with ability to manage bugs and minimise system crashes for day to day efficieny
+                <h4 class="title"><a href="#" class="stretched-link">Sofware Installations & Configurations</a></h4>
+                <p class="description">The base of the user interaction between the so called 
+                  machines known as Laptops/Computers are the Sofwares i.e:
+                  System Sofwares and User Softwares.We manage how you want your 
+                  systems be configured and customised as we do the installations, 
+                  we as well accept new challenges with 
+                  ability to manage bugs and minimise system crashes for day to day efficiency
                 </p>
               </div>
             </div>
             <!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
-              <div class="icon flex-shrink-0"><i class="bi bi-globe" style="color: #15a04a;"></i></div>
+              <div class="icon flex-shrink-0"><i class="bi bi-card-checklist" style="color: #15a04a;"></i></div>
               <div>
                 <h4 class="title"><a href="#" class="stretched-link">Web Designing</a></h4>
-                <p class="description">Website is the fast thing a client looks into to know more about your services, team, portfolio, company backgeround and many more.
-                  It is the face of your company, it stands on behalf of you to communicate to the client what you offer and how you offer and what 
+                <p class="description">Website is the fast thing a client looks into to know more about your services, team, portfolio,
+                   company background and many more.
+                  It is the face of your company, it stands on behalf of you to communicate to the client what you offer, policies and what 
                   others say about you!!! We believe you deserve the best and thats why we find time for you, we listen and give you enough time to appreciate your image online before we can publish, 
-                  We can start the idea from scrath for you or you shows us how you want it to look alike and boom you will be online the next day.
+                  We can start the idea from scrath for you or you shows us how you want it to look alike 
+                  and boom you will be online within the next seconds.
                 </p>
               </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="300">
-              <div class="icon flex-shrink-0"><i class="bi bi-file-earmark-pdf" style="color: #d90769;"></i></div>
+              <div class="icon flex-shrink-0"><i class="bi bi-bar-chart" style="color: #d90769;"></i></div>
               <div>
                 <h4 class="title"><a href="#" class="stretched-link">Project Management</a></h4>
                 <p class="description">You are a student!!! Approaching end of your course! Need a hand to show you how things are implemented online, 
                   need to finalise your research work, need to bug off your systems, 
-                  Or you are there at your desk but have importand duties to attend to 
+                  Or you are there at your desk but have important duties to attend to 
                   from management to decision making proceeds,
                   need someone to help you implement the idea online,
                   need a technical document on how your system will work-out, 
                   You had the dream to do something but with
-                  little know-how, Worry Less!!! Just <a href="contact.php">Get In Touch</a> and we will be right there till all is done. 
+                  little know-how, Worry Less!!! Just <a href="contact.php">Get in touch</a> and we will be right there till all is done. 
                 </p>
               </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-6 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="400">
-              <div class="icon flex-shrink-0"><i class="bi bi-laptop" style="color: #15bfbc;"></i></div>
+              <div class="icon flex-shrink-0"><i class="bi bi-binoculars" style="color: #15bfbc;"></i></div>
               <div>
                 <h4 class="title"><a href="#" class="stretched-link">System Development & RestFul API</a></h4>
                 <p class="description">
-                  From Enterprise Sofwares, RestAPI codes to Windows Programming, you are at the right place. Your data will only be safe if you have right 
-                  right security policies, as you talk we know what to do behind the scenes to ensure you wont and will never be the culprit of 
+                  From Enterprise Sofwares, RestAPI codes to Windows Programming, you are at the right place. Your data will only be 
+                  safe if you have right security policies, as we talk we ensure you wont and will never be the culprit of 
                   of system malfunction or attacks.
                 </p>
               </div>
             </div><!-- End Service Item -->
 
             <div class="col-lg-6 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="500">
-              <div class="icon flex-shrink-0"><i class="bi bi-wordpress" style="color: #f5cf13;"></i></div>
+              <div class="icon flex-shrink-0"><i class="bi bi-brightness-high" style="color: #f5cf13;"></i></div>
               <div>
                 <h4 class="title"><a href="#" class="stretched-link">e-Services & Content Management</a></h4>
                 <p class="description">From Social Media Management to Blogging, our team is there for you, weekly, daily & hourly 24/7 services you can trust</p>
