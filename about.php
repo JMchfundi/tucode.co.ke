@@ -1,50 +1,48 @@
-<!DOCTYPE html>
-<html lang="en">
+  <!DOCTYPE html>
+  <html lang="en">
 
-<body class="page-about">
+  <body class="page-about">
 
-<?php include "fragments/header.php";?>
+  <?php include "fragments/header.php";?>
 
 
-  <main id="main">
+    <main id="main">
 
-  <?php include "about-home.php";?>
+    <?php include "about-home.php";?>
 
-    <!-- ======= About Section ======= -->
-    <section id="about" class="about">
-      <div class="container" data-aos="fade-up">
-
-        <div class="row gy-4" data-aos="fade-up">
-          <div class="col-lg-4">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
-          </div>
-          <div class="col-lg-8">
-            <div class="content ps-lg-5">
-              <p>A Young IT Solution Industry Comprised Of Active,
-                 Able and Dedicated Experts, Located At Mombasa Coast Kenya</p>
-                 <h2>Our Mission</h2>
-              <p>To Be The Best Solutions Driving
-                   Industry At Kenya Coast and Africa</p>
-                 <h2>Our Vision</h2>
-              <p>To Be Number One Depended 
-                  Partners In Africa</p>
+      <!-- ======= About Section ======= -->
+      <section id="about" class="about">
+        <div class="container" data-aos="fade-up">
+          <div class="row gy-4" data-aos="fade-up">
+            <div class="section-header">
+              <h2>About Us</h2>
             </div>
+            <div class="col-lg-6">
+              <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            </div>
+            <div class="col-lg-6">
+                <p>A Young IT Solution Industry Comprised Of Active,
+                  Able and Dedicated Experts, Located At Mombasa Coast Kenya</p>
+                  <h2>Our Mission</h2>
+                <p>To Be The Best Solutions Driving
+                    Industry At Kenya Coast and Africa</p>
+                  <h2>Our Vision</h2>
+                <p>To Be Number One Depended 
+                    Partners In Africa</p>
+              </div>
+
           </div>
         </div>
+      </section><!-- End About Section -->
 
-      </div>
-    </section><!-- End About Section -->
+          <!-- ======= Why Choose Us Section ======= -->
+          <?php include "team.php";?>
 
-        <!-- ======= Why Choose Us Section ======= -->
-        <?php include "our-services.php";?>
+    </main><!-- End #main -->
 
-        <?php include "team.php";?>
+    <!-- ======= Footer ======= -->
+    <?php include "fragments/footer.php";?>
 
-  </main><!-- End #main -->
+  </body>
 
-  <!-- ======= Footer ======= -->
-  <?php include "fragments/footer.php";?>
-
-</body>
-
-</html>
+  </html>

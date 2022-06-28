@@ -13,7 +13,7 @@
 
         <h2>Portfolio</h2>
         <ol>
-          <li><a href="index.html">Home</a></li>
+          <li><a href="index.php">Home</a></li>
           <li>Portfolio</li>
         </ol>
 
