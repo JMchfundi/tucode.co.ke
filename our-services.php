@@ -33,7 +33,7 @@
               <div class="icon flex-shrink-0"><i class="bi bi-globe" style="color: #15a04a;"></i></div>
               <div>
                 <h4 class="title"><a href="#" class="stretched-link">Web Designing</a></h4>
-                <p class="description">Website is the fast thing a client looks into to know more about your services, team, portfolio,
+                <p class="description">Website is the first thing a client looks into to know more about your services, team, portfolio,
                    company background and many more.
                   It is the face of your company, it stands on behalf of you to communicate to the client what you offer, policies and what 
                   others say about you!!! We believe you deserve the best and thats why we find time for you, we listen and give you enough time to appreciate your image online before we can publish, 
