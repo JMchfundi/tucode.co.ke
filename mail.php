@@ -1,4 +1,7 @@
 <?php
+
+if (!defined("PHP_EOL")) define("PHP_EOL", "\r\n");
+
 //getting user data
 $name = $_POST['name'];
 $email = $_POST['email'];
@@ -13,13 +16,15 @@ $subject = ' A New Message Received From ' .$name;
 //email message body
 
 $htmlContent = "You have been contacted by
- $name the message reads: $message"
+    $name" . PHP_EOL . PHP_EOL . "The message reads:" 
+  . PHP_EOL . PHP_EOL . $message"
 $msg = wordwrap( $htmlContent, 70 );
  
 //header for sender info
-$headers = "From: $email";
-$headers .= "MIME-Version: 1.0";
-$headers .= "Content-Type: text/plain; charset=UTF-8";
+$headers = "From: $email" . PHP_EOL;
+$headers .= "MIME-Version: 1.0" . PHP_EOL;
+$headers .= "Content-type: text/plain; charset=utf-8" . PHP_EOL;
+$headers .= "Content-Transfer-Encoding: quoted-printable" . PHP_EOL;
 
 //PHP mailer function 
  	if(mail($mailTo, $subject, $msg, $headers)) {
