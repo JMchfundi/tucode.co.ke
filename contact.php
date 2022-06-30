@@ -72,7 +72,7 @@
         <div class="text-center"><button type="submit">Send Message</button></div>
       </form> -->
   
-  <form method="post"  action="mail.php" name="contactform" id="contactform" class="php-email-form">
+  <form method="post"  action="mail.php" name="contactform" id="contactform" class="">
     <label for="name" accesskey="U">Full name <span>*</span></label>
     <input name="name" class="form-control input-field" type="text" id="name" size="30" value="" required/>
 
