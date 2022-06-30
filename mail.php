@@ -76,7 +76,7 @@
 		echo "</div>";
 		echo "</fieldset>";
 
-		header("Refresh:5; url=index.php");
+		header("Refresh:30; url=index.php");
 
 	} else {
 
