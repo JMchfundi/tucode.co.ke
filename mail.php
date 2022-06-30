@@ -76,11 +76,11 @@
 		echo "</div>";
 		echo "</fieldset>";
 
-		header("Refresh:5; url=index.php");
+		header("Refresh:3; url=index.php");
 
 	} else {
 
 		echo 'ERROR! We Have Contacted Our Tech Team on This Cause & All Shall Be Resolved ASAP';
-		header("Refresh:5; url=index.php");
-		
+		header("Refresh:3; url=index.php");
+
 	}
