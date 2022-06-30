@@ -12,7 +12,7 @@
 	$subject = ' A New Message Received From ' .$firstName;
 	
 	//email message body
-	$htmlContent = '<h2> Email Request Received </h2>
+	$formContent = '<h2> Email Request Received </h2>
 	<p> <b>Client Name: </b> '.$firstName . " " . $lastName . '</p>
 	<p> <b>Name: </b> '.$name .'</p>
 	<p> <b>Email: </b> '.$email .'</p>
@@ -24,7 +24,7 @@
 	$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 	
 	//PHP mailer function
-	$status = mail($mailTo, $subject, $htmlContent, $headers);
+	$status = mail($mailTo, $subject, $formContent, $headers);
 	
 	//error checking
 	if($status) {
