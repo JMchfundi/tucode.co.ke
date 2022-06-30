@@ -55,13 +55,13 @@
             </div>
 
             <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
+            <?php include "mail.php";?>  
                 <!-- Error display -->
             <div>
                 <p class="success"> <?php echo $success;  ?> </p>
                 <p class="failed"> <?php echo $failed;  ?> </p>
             </div>
-            
-              <form action="mail.php" method="post" role="form" class="php-email-form">
+              <form action="" method="post" role="form" class="php-email-form">
                 <div class="row">
                   <div class="col-md-6 form-group">
                     <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
