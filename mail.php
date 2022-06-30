@@ -11,17 +11,15 @@ $mailTo = 'directors@tucode.co.ke';
 $subject = ' A New Message Received From ' .$name;
  
 //email message body
-$htmlContent = '<h2> Email Request Received </h2>
-<p> <b>Name: </b> '.$name .'</p>
-<p> <b>Email: </b> '.$email .'</p>
-<p> <b>Message: </b> '.$message .'</p>';
 
+$htmlContent = "You have been contacted by
+ $name the message reads: $message"
 $msg = wordwrap( $htmlContent, 70 );
  
 //header for sender info
-$headers = "From: " .$email. ";
-$headers .= "MIME-Version: 1.0\r\n";
-$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
+$headers = "From: $email";
+$headers .= "MIME-Version: 1.0";
+$headers .= "Content-Type: text/plain; charset=UTF-8";
 
 //PHP mailer function 
  	if(mail($mailTo, $subject, $msg, $headers)) {
