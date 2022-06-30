@@ -21,7 +21,7 @@ $msg = wordwrap( $htmlContent, 70 );
 //header for sender info
 $headers = "From: " .$email. ";
 $headers .= "MIME-Version: 1.0\r\n";
-$headers .= "Content-Type: text/plain; charset=UTF-8\r\n";
+$headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 
 //PHP mailer function 
  	if(mail($mailTo, $subject, $msg, $headers)) {
