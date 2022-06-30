@@ -75,6 +75,7 @@
 		echo "<p>Thank you <strong>$name</strong>, your message has been submitted to us.</p>";
 		echo "</div>";
 		echo "</fieldset>";
+		header("location:https://tucode.co.ke/");
 
 	} else {
 
