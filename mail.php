@@ -15,14 +15,16 @@ $htmlContent = '<h2> Email Request Received </h2>
 <p> <b>Name: </b> '.$name .'</p>
 <p> <b>Email: </b> '.$email .'</p>
 <p> <b>Message: </b> '.$message .'</p>';
+
+$msg = wordwrap( $htmlContent, 70 );
  
 //header for sender info
-$headers = "From: " .$name . "<". $email . ">";
+$headers = "From: " .$email. ";
 $headers .= "MIME-Version: 1.0\r\n";
 $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
  
 //PHP mailer function 
- 	if(mail($mailTo, $subject, $htmlContent, $headers)) {
+ 	if(mail($mailTo, $subject, $msg, $headers)) {
 
 		// Email has sent successfully, echo a success page.
 		echo "<fieldset>";
