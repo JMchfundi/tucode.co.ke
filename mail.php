@@ -17,7 +17,7 @@ $subject = ' A New Message Received From ' .$name;
 
 $htmlContent = "You have been contacted by
     $name" . PHP_EOL . PHP_EOL . "The message reads:" 
-  . PHP_EOL . PHP_EOL . $message";
+  . PHP_EOL . PHP_EOL . " $message ";
 $msg = wordwrap( $htmlContent, 70 );
  
 //header for sender info
