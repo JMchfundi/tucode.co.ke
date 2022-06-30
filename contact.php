@@ -3,7 +3,6 @@
 
 <body class="page-contact">
 
-<?php include "mail.php";?>
 <?php include "fragments/header.php";?>
 
 <main id="main">
@@ -57,7 +56,7 @@
 
     <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
         
-      <form action="" method="post" role="form" class="php-email-form">
+      <form action="mail.php" method="post" role="form" class="php-email-form">
         <div class="row">
           <div class="col-md-6 form-group">
             <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
@@ -72,20 +71,15 @@
 
         <div class="text-center"><button type="submit" name="submit">Send Message</button></div>
       </form>
-  
-  <!-- <form method="post"  action="mail.php" name="contactform" id="contactform" class="">
-    <label for="name" accesskey="U">Full name <span>*</span></label>
-    <input name="name" class="form-control input-field" type="text" id="name" size="30" value="" required/>
 
-    <label for="email" accesskey="E">Email Address <span>*</span></label>
-    <input name="email" class="form-control input-field" type="text" id="email" size="30" value="" required/>
-    
-    <label for="comments" accesskey="C">Message <span>*</span></label>
-    <textarea name="comments" rows="9" id="comments" rows="7" class="form-control input-field" required>
-    </textarea>
-    
-    <input type="submit" class="form-button submit" id="submit" value="SEND MESSAGE" />
-  </form> -->
+          <!-- Team,
+
+          We have had a lot of pressure from Bw. Awadh with regards to email contant form.
+
+          If you get this then all is okay from TuCode Inc Solutions form.
+
+          Kr,
+          ^JM  -->
 
     </div><!-- End Contact Form -->
 

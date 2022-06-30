@@ -1,5 +1,4 @@
 <?php
-if( isset($_POST['submit']) ) {
 //getting user data
 $name = $_POST['name'];
 $email = $_POST['email'];
@@ -39,5 +38,4 @@ $headers .= "Content-Type: text/html; charset=UTF-8\r\n";
 		echo 'ERROR! We Have Contacted Our Tech Team on This Cause & All Shall Be Resolved ASAP';
 		header("Refresh:3; url=index.php");
 	} 
-}
 ?>
