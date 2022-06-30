@@ -73,6 +73,6 @@ if(mail($address, $e_subject, $msg, $headers)) {
 
 } else {
 
-	echo 'ERROR!';
+	echo 'ERROR! Our Team Have Been Contacted All Will Be Sorted ASAP';
 
 }
