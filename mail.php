@@ -8,7 +8,7 @@ $email = $_POST['email'];
 $message = $_POST['message'];
  
 //Recipient email
-$mailTo = 'directors@tucode.co.ke';
+$mailTo = 'info@tucode.co.ke';
  
 //email subject
 $subject = ' A New Message Received From ' .$name;
