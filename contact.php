@@ -43,7 +43,7 @@
         <i class="bi bi-envelope flex-shrink-0"></i>
         <div>
           <h4>Email:</h4>
-          <p>info@tucode.co.ke</p>
+          <p><a href="info@tucode.co.ke">info@tucode.co.ke</a></p>
         </div>
       </div><!-- End Info Item -->
 
