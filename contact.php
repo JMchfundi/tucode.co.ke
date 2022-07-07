@@ -26,7 +26,7 @@
 
   <div class="row gy-4 d-flex justify-content-end">
 
-    <div class="col-lg-5" data-aos="fade-up" data-aos-delay="100">
+    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
 
       <div class="info-item d-flex">
         <i class="bi bi-geo-alt flex-shrink-0"></i>
@@ -35,7 +35,10 @@
           <p>Mombasa Coast, Kenya</p>
         </div>
       </div><!-- End Info Item -->
+</div><!-- End Info Item -->
 
+    <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
+      
       <div class="info-item d-flex">
         <i class="bi bi-envelope flex-shrink-0"></i>
         <div>
@@ -43,6 +46,10 @@
           <p>info@tucode.co.ke</p>
         </div>
       </div><!-- End Info Item -->
+
+            </div><!-- End Info Item -->
+
+        <div class="col-lg-4" data-aos="fade-up" data-aos-delay="100">
 
       <div class="info-item d-flex">
         <i class="bi bi-phone flex-shrink-0"></i>
@@ -52,10 +59,10 @@
         </div>
       </div><!-- End Info Item -->
 
-    </div>
+                </div><!-- End Info Item -->
 
-    <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">
-        
+   <!--
+ <div class="col-lg-6" data-aos="fade-up" data-aos-delay="250">      
       <form action="mail.php" method="post" role="form" class="php-email-form">
         <div class="row">
           <div class="col-md-6 form-group">
@@ -71,8 +78,9 @@
 
         <div class="text-center"><button type="submit" name="submit">Send Message</button></div>
       </form>
-
-          <!-- Team,
+  </div> -->
+    
+              <!-- Team,
 
           We have had a lot of pressure from Bw. Awadh with regards to email contant form.
 
@@ -81,7 +89,6 @@
           Kr,
           ^JM  -->
 
-    </div><!-- End Contact Form -->
 
   </div>
 
