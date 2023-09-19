@@ -1,12 +1,12 @@
 <template>
     <HeaderCodeVue></HeaderCodeVue>
-    <HomeLayer></HomeLayer>
     <ServiceCodeVue></ServiceCodeVue>
     <AboutCode></AboutCode>
     <ServiceSlide></ServiceSlide>
     <BookCode></BookCode>
     <TeamCode></TeamCode>
     <FooterCode></FooterCode>
+    <HomeLayer></HomeLayer>
 </template>
 
 <script>
