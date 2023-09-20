@@ -24,12 +24,12 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Services</h4>
-                    <a class="btn btn-link" href="">Web development</a>
-                    <a class="btn btn-link" href="">Desktop applications</a>
-                    <a class="btn btn-link" href="">Web Hosting</a>
-                    <a class="btn btn-link" href="">Content management</a>
-                    <a class="btn btn-link" href="">Maintenance</a>
-                    <a class="btn btn-link" href="">Cyber Services</a>
+                    <a class="btn btn-link" >Web development</a>
+                    <a class="btn btn-link" >Desktop applications</a>
+                    <a class="btn btn-link" >Web Hosting</a>
+                    <a class="btn btn-link" >Content management</a>
+                    <a class="btn btn-link" >Maintenance</a>
+                    <a class="btn btn-link" >Cyber Services</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Newsletter</h4>

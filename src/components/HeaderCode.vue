@@ -31,14 +31,14 @@
    <div class="container-fluid nav-bar bg-light">
         <nav class="navbar navbar-expand-lg navbar-light bg-white p-3 py-lg-0 px-lg-4">
             <a href="" class="navbar-brand d-flex align-items-center m-0 p-0 d-lg-none">
-                <h1 class="text-primary m-0">TuCode</h1>
+                <h1 class="text-primary m-0 btn btn-link">TuCode</h1>
             </a>
             <button class="navbar-toggler shadow-lg" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
                 <span class="fa fa-bars text-dark"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav me-auto">
-                    <router-link to="/" class="nav-item nav-link active">Home</router-link>
+                    <a href="" class="btn btn-link nav-item nav-link active">Home</a>
                     <router-link to="/about" class="nav-item nav-link">About</router-link>
                     <router-link to="/team" class="nav-item nav-link">Our Team</router-link>
                     <router-link to="/service" class="nav-item nav-link">Services</router-link>
