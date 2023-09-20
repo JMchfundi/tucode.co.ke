@@ -4,9 +4,9 @@
     <div class="container-fluid bg-light d-none d-lg-block">
         <div class="row align-items-center top-bar">
             <div class="col-lg-3 col-md-12 text-center text-lg-start">
-                <router-link to="/" class="navbar-brand m-0 p-0">
+                <a href="" class="navbar-brand m-0 p-0">
                     <h1 class="text-primary m-0">TuCode</h1>
-                </router-link>
+                </a>
             </div>
             <div class="col-lg-9 col-md-12 text-end">
                 <div class="h-100 d-inline-flex align-items-center me-4">
@@ -38,7 +38,7 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav me-auto">
-                    <a href="" class="btn btn-link nav-item nav-link active">Home</a>
+                    <a href="" class="nav-item nav-link active">Home</a>
                     <router-link to="/about" class="nav-item nav-link">About</router-link>
                     <router-link to="/team" class="nav-item nav-link">Our Team</router-link>
                     <router-link to="/service" class="nav-item nav-link">Services</router-link>
