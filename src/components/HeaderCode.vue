@@ -1,4 +1,5 @@
 <template>
+    <div>
     <!-- Topbar Start -->
     <div class="container-fluid bg-light d-none d-lg-block">
         <div class="row align-items-center top-bar">
@@ -38,8 +39,8 @@
             <div class="collapse navbar-collapse" id="navbarCollapse">
                 <div class="navbar-nav me-auto">
                     <router-link to="/" class="nav-item nav-link active">Home</router-link>
-                    <a href="about.html" class="nav-item nav-link">About</a>
-                    <a href="team.html" class="nav-item nav-link">Our Team</a>
+                    <router-link to="/about" class="nav-item nav-link">About</router-link>
+                    <router-link to="/team" class="nav-item nav-link">Our Team</router-link>
                     <router-link to="/service" class="nav-item nav-link">Services</router-link>
                     <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
@@ -56,8 +57,9 @@
                             <a href="#" class="dropdown-item">Cyber Services</a>
                             <a href="404.html" class="dropdown-item">404 Page</a>
                         </div>
-                    </div>
-                    <a href="contact.html" class="nav-item nav-link">Contact</a> -->
+                    </div>-->
+
+                    <router-link to="/contact" class="nav-item nav-link">Contact</router-link>                 
                 </div>
                 <div class="mt-4 mt-lg-0 me-lg-n4 py-3 px-4 bg-primary d-flex align-items-center shadow-lg">
                     <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 45px; height: 45px;">
@@ -72,4 +74,5 @@
         </nav>
     </div>
     <!-- Navbar End -->
+</div>
 </template>

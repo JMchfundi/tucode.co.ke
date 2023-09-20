@@ -1,19 +1,17 @@
 <template>
   <div>
     <HeaderCode></HeaderCode>
-    <ServiceLayer></ServiceLayer>
-    <ServiceCode></ServiceCode>
-    <BookCode></BookCode>
+    <TeamLayer></TeamLayer>
+    <TeamCode></TeamCode>
     <FooterCode></FooterCode>
   </div>
 </template>
 
 <script>
-import BookCode from '@/components/BookCode.vue';
 import FooterCode from '@/components/FooterCode.vue';
 import HeaderCode from '@/components/HeaderCode.vue';
-import ServiceCode from '@/components/ServiceCode.vue';
-import ServiceLayer from '@/components/ServiceLayer.vue';
+import TeamCode from '@/components/TeamCode.vue';
+import TeamLayer from '@/components/TeamLayer.vue';
 
 // @ is an alias to /src
 
@@ -21,10 +19,9 @@ export default {
   name: 'HomeView',
   components: {
     HeaderCode,
-    ServiceCode,
-    BookCode,
+    TeamCode,
     FooterCode,
-    ServiceLayer
+    TeamLayer
 }
 }
 </script>
