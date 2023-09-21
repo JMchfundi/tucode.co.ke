@@ -50,7 +50,7 @@
                             <a href="#" class="dropdown-item">Web Development</a><!--Covers web application part as well-->
                             <!-- <a href="#" class="dropdown-item">Web applications</a> -->
                             <a href="#" class="dropdown-item">Web Hosting</a>
-                            <a href="#" class="dropdown-item">Desktop Applications</a>
+                            <a href="#" class="dropdown-item">ERPs Solution</a>
                             <!-- <a href="team.html" class="dropdown-item">Project Management</a> -->
                             <a href="#" class="dropdown-item">Content Management</a><!--Covers project management as well-->
                             <a href="#" class="dropdown-item">Maintenance</a>

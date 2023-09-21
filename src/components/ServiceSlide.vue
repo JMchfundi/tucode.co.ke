@@ -16,7 +16,7 @@
                     <div class="owl-carousel service-carousel position-relative wow fadeInUp" data-wow-delay="0.1s">
                         <div class="bg-light p-4">
                             <div class="d-flex align-items-center justify-content-center border border-5 border-white mb-4" style="width: 75px; height: 75px;">
-                                <i class="fa fa-water fa-2x text-primary"></i>
+                                <i class="fa fa-microchip fa-2x text-primary"></i>
                             </div>
                             <h4 class="mb-3">Software solution</h4>
                             <p>We offer a wide range of services under this, from static web, dynamic web based with API concept, to desktop based with modern technology applied, with languages like Java and Javascript with secured with hibernate at backend. You matter and its why we assure you of:-</p>
@@ -27,7 +27,7 @@
                         </div>
                         <div class="bg-light p-4">
                             <div class="d-flex align-items-center justify-content-center border border-5 border-white mb-4" style="width: 75px; height: 75px;">
-                                <i class="fa fa-toilet fa-2x text-primary"></i>
+                                <i class="fa fa-globe fa-2x text-primary"></i>
                             </div>
                             <h4 class="mb-3">Web Hosting</h4>
                             <p>It is the most critical area in this world of technology, there are so many platforms where web hosting is done,the only problem is most of them would not consider your hustle, but with us you are covered, check with us for:-</p>
@@ -38,7 +38,7 @@
                         </div>
                         <div class="bg-light p-4">
                             <div class="d-flex align-items-center justify-content-center border border-5 border-white mb-4" style="width: 75px; height: 75px;">
-                                <i class="fa fa-shower fa-2x text-primary"></i>
+                                <i class="fa fa-desktop fa-2x text-primary"></i>
                             </div>
                             <h4 class="mb-3">Cyber Services</h4>
                             <p>The modern world is so demanding on use of technology. We are constantly required to stop by a cyber shop for document scanning or copy or receipt designing or tax filing and all the other stuffs like system installations and configurations. We can do you all this affordably, just call us for:-</p>
@@ -49,7 +49,7 @@
                         </div>
                         <div class="bg-light p-4">
                             <div class="d-flex align-items-center justify-content-center border border-5 border-white mb-4" style="width: 75px; height: 75px;">
-                                <i class="fa fa-tint fa-2x text-primary"></i>
+                                <i class="fa fa-cogs fa-2x text-primary"></i>
                             </div>
                             <h4 class="mb-3">Hardware & Software maintenance</h4>
                             <p>Our company, a tech solution mainly area is software development, that is why we would be delighted if you gave us a chance to take your system through maintenance, to fix that bug or transfer to a new technology. And if your computer developed mechanical glitches, we have technicians who can work magic on it,so never worry because we have got you covered.</p>

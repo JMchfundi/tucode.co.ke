@@ -5,9 +5,10 @@
             <div class="row g-5">
                 <div class="col-lg-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase">About Us</h6>
-                    <h1 class="mb-4">We Are Trusted registered Tech solution Company Since 2022</h1>
+                    <h1 class="mb-4 text-capitalize">We Are Trusted registered Tech solution Company Since 2022</h1>
                     <p class="mb-4">Our services are simply the best you just need to visit, send a mail or make a call to experience what our clients say about us. We are growing through the days,where each day is an opportunity for our clients. Our dedicated effort is to make our clients dream happen. Get from us:</p>
                     <p class="fw-medium text-primary"><i class="fa fa-check text-success me-3"></i>All web related services, including hosting </p>
+                    <p class="fw-medium text-primary"><i class="fa fa-check text-success me-3"></i>Reliable enterprise solutions</p>
                     <p class="fw-medium text-primary"><i class="fa fa-check text-success me-3"></i>Quality and affordable cyber services</p>
                     <p class="fw-medium text-primary"><i class="fa fa-check text-success me-3"></i>Hardware and software maintenance services</p>
                     <div class="bg-primary d-flex align-items-center p-4 mt-5 shadow-lg">

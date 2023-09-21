@@ -16,7 +16,7 @@
                   >
                     Computer tech Services
                   </h5>
-                  <h1 class="display-3 text-white animated slideInDown mb-4">
+                  <h1 class="display-3 text-white animated slideInDown mb-4 text-capitalize">
                     Efficient Solution to tech problems
                   </h1>
                   <p class="fs-5 fw-medium text-white mb-4 pb-2">
@@ -27,11 +27,12 @@
                     class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"
                     >Read More</a
                   >
-                  <a
+                  <!-- Commented by Omari -->
+                  <!-- <a
                     href=""
                     class="btn btn-secondary py-md-3 px-md-5 animated slideInRight"
                     >Free Quote</a
-                  >
+                  > -->
                 </div>
               </div>
             </div>
@@ -51,7 +52,7 @@
                   >
                     Repair and Installation
                   </h5>
-                  <h1 class="display-3 text-white animated slideInDown mb-4">
+                  <h1 class="display-3 text-white animated slideInDown mb-4 text-capitalize">
                     Quick & efficient system installation
                   </h1>
                   <p class="fs-5 fw-medium text-white mb-4 pb-2">
@@ -63,11 +64,12 @@
                     class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft"
                     >Read More</a
                   >
-                  <a
+                  <!--Commented by Omari-->
+                  <!-- <a
                     href=""
                     class="btn btn-secondary py-md-3 px-md-5 animated slideInRight"
-                    >Free Quote</a
-                  >
+                    >Free Quote</a -->
+                  
                 </div>
               </div>
             </div>
