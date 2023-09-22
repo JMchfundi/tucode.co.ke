@@ -5,7 +5,7 @@
             <div class="row g-4">
                 <div class="col-md-6 col-lg-6 text-center wow fadeIn" data-wow-delay="0.1s">
                     <i class="fa fa-check fa-2x text-white mb-3"></i>
-                    <h2 class="text-white mb-2" data-toggle="counter-up">3</h2>
+                    <h2 class="text-white mb-2" data-toggle="counter-up">7</h2>
                     <p class="text-white mb-0">Years Experience</p>
                 </div>
                 <div class="col-md-6 col-lg-6 text-center wow fadeIn" data-wow-delay="0.3s">
