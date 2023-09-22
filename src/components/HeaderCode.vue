@@ -67,7 +67,7 @@
                     </div>
                     <div class="ms-3">
                         <p class="mb-1 text-white">Available on contact:</p>
-                        <h5 class="m-0 text-secondary"><a href="tel:+254 746 512687">+254(0) 746 512687</a></h5>
+                        <h5 class="m-0 text-secondary"><a href="tel:+254 746 512687" style="text-decoration: none; color: aliceblue;">+254(0) 746 512687</a></h5>
                     </div>
                 </div>
             </div>
