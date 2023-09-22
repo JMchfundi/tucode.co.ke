@@ -40,7 +40,7 @@
                 <div class="navbar-nav me-auto">
                     <a href="" class="nav-item nav-link active">Home</a>
                     <router-link to="/about" class="nav-item nav-link">About</router-link>
-                    <router-link to="/team" class="nav-item nav-link">Our Team</router-link>
+                    <!-- <router-link to="/team" class="nav-item nav-link">Our Team</router-link> -->
                     <router-link to="/service" class="nav-item nav-link">Services</router-link>
                     <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
@@ -67,7 +67,7 @@
                     </div>
                     <div class="ms-3">
                         <p class="mb-1 text-white">Available on contact:</p>
-                        <h5 class="m-0 text-secondary">+254 746 512687</h5>
+                        <h5 class="m-0 text-secondary">+254(0) 746 512687</h5>
                     </div>
                 </div>
             </div>

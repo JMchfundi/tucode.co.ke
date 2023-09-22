@@ -15,7 +15,7 @@
                         <div class="team-text">
                             <div class="bg-light">
                                 <h5 class="fw-bold mb-0">Jafari Mchasa Akida</h5>
-                                <small>Fullstack Java Developer<br>& Software Engineer</small>
+                                <small>Founder / Software Engineer</small>
                             </div>
                             <div class="bg-primary">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -32,8 +32,8 @@
                         </div>
                         <div class="team-text">
                             <div class="bg-light">
-                                <h5 class="fw-bold mb-0">Omari Mwakaribu</h5>
-                                <small>Developer and system analyst</small>
+                                <h5 class="fw-bold mb-0">Omari S. Mwakaribu</h5>
+                                <small>System Developer & Analyst</small>
                             </div>
                             <div class="bg-primary">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -50,8 +50,8 @@
                         </div>
                         <div class="team-text">
                             <div class="bg-light">
-                                <h5 class="fw-bold mb-0">Awadh Kombo Munga</h5>
-                                <small>Public Relation Manager</small>
+                                <h5 class="fw-bold mb-0">Awadh M. Kombo</h5>
+                                <small>Public Relation Consultant</small>
                             </div>
                             <div class="bg-primary">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>

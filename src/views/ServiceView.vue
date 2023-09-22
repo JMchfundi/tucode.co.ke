@@ -2,7 +2,7 @@
   <div>
     <HeaderCode></HeaderCode>
     <ServiceLayer></ServiceLayer>
-    <ServiceCode></ServiceCode>
+    <ServiceSlide></ServiceSlide>
     <BookCode></BookCode>
     <FooterCode></FooterCode>
   </div>
@@ -12,8 +12,8 @@
 import BookCode from '@/components/BookCode.vue';
 import FooterCode from '@/components/FooterCode.vue';
 import HeaderCode from '@/components/HeaderCode.vue';
-import ServiceCode from '@/components/ServiceCode.vue';
 import ServiceLayer from '@/components/ServiceLayer.vue';
+import ServiceSlide from '@/components/ServiceSlide.vue';
 
 // @ is an alias to /src
 
@@ -21,10 +21,10 @@ export default {
   name: 'HomeView',
   components: {
     HeaderCode,
-    ServiceCode,
     BookCode,
     FooterCode,
-    ServiceLayer
+    ServiceLayer,
+    ServiceSlide
 }
 }
 </script>
