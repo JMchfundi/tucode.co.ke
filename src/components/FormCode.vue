@@ -9,7 +9,7 @@
                     <h1 class="mb-4">Contact For Any Query</h1>
                     <p class="mb-4">We are available to all through </p>
                     <p class="mb-4"><a href="tel:+254 746 512687">+254(0) 746 512687</a></p>
-                    <p class="mb-4"><a href:="mailto:info@tucode.co.ke">info@tucode.co.ke</a></p>
+                    <p class="mb-4"><a href="mailto:info@tucode.co.ke">info@tucode.co.ke</a></p>
                     <!-- Comment of the contact form done by Omari -->
                     <!-- <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p> -->
                     <!-- <iframe class="position-relative w-100"
