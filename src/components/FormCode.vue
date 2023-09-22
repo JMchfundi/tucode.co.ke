@@ -7,8 +7,9 @@
                 <div class="col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase">Get In Touch</h6>
                     <h1 class="mb-4">Contact For Any Query</h1>
-                    <p class="mb-4">We are available to all through 
-                        <a href="tel:+254 746 512687">+254(0) 746 512687</a> / <a href:="mailto:info@tucode.co.ke">info@tucode.co.ke</a></p>
+                    <p class="mb-4">We are available to all through </p>
+                        <a href="tel:+254 746 512687">+254(0) 746 512687</a> / 
+                        <a href:="mailto:info@tucode.co.ke">info@tucode.co.ke</a>
                     <!-- Comment of the contact form done by Omari -->
                     <!-- <p class="mb-4">The contact form is currently inactive. Get a functional and working contact form with Ajax & PHP in a few minutes. Just copy and paste the files, add a little code and you're done. <a href="https://htmlcodex.com/contact-form">Download Now</a>.</p> -->
                     <!-- <iframe class="position-relative w-100"
