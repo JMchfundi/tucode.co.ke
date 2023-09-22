@@ -41,7 +41,8 @@
                     <a href="" class="nav-item nav-link active">Home</a>
                     <router-link to="/about" class="nav-item nav-link">About</router-link>
                     <!-- <router-link to="/team" class="nav-item nav-link">Our Team</router-link> -->
-                    <a href="https://www.vue.tucode.co.ke/#/service" class="nav-item nav-link">Services</a>
+                    <a href="https://www.vue.tucode.co.ke/#/service" class="nav-item nav-link"
+                    onclick="window.location.reload(true)">Services</a>
                     <!-- <div class="nav-item dropdown">
                         <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Pages</a>
                         <div class="dropdown-menu fade-up m-0">
