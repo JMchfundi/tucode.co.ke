@@ -7,7 +7,7 @@
                 <div class="col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <h6 class="text-secondary text-uppercase">Get In Touch</h6>
                     <h1 class="mb-4">Contact For Any Query</h1>
-                    <p class="mb-4">We are available to all through </p>
+                    <p class="mb-4">We are available on </p>
                     <p class="mb-4"><a href="tel:+254 746 512687">+254(0) 746 512687</a></p>
                     <p class="mb-4"><a href="mailto:info@tucode.co.ke">info@tucode.co.ke</a></p>
                     <!-- Comment of the contact form done by Omari -->
