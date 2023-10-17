@@ -27,7 +27,7 @@ export default {
                           this.$loadScript(
                             "lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js"
                           ).then(() => {
-                            this.$loadScript("js/main.js").then(() => {});
+                            this.$loadScript("js/main.js").then(() => { });
                           });
                         });
                       }
