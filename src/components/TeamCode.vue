@@ -15,7 +15,7 @@
                         <div class="team-text">
                             <div class="bg-light">
                                 <h5 class="fw-bold mb-0">Jafari Mchasa Akida</h5>
-                                <small>Founder / Software Engineer</small>
+                                <small>Founder</small>
                             </div>
                             <div class="bg-primary">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -61,17 +61,16 @@
                         </div>
                     </div>
                 </div>
-
                 <!--Fourth column commented, will be uncommented if needed-->
-                <!-- <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
+                <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
                         <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/team-4.jpg" alt="">
+                            <img class="img-fluid" src="img/ahmed.jpg" alt="" style="width: 100%; height: 300px">
                         </div>
                         <div class="team-text">
                             <div class="bg-light">
-                                <h5 class="fw-bold mb-0">Fatuma Shaban</h5>
-                                <small>Software Engineer</small>
+                                <h5 class="fw-bold mb-0">Ahmed Feisal</h5>
+                                <small>ICT Project Manager</small>
                             </div>
                             <div class="bg-primary">
                                 <a class="btn btn-square mx-1" href=""><i class="fab fa-facebook-f"></i></a>
@@ -80,7 +79,7 @@
                             </div>
                         </div>
                     </div>
-                </div> -->
+                </div>
             </div>
         </div>
     </div>
