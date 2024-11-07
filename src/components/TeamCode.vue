@@ -9,7 +9,7 @@
             <div class="row g-4 justify-content-center "><!--Alignment of the column to accommodate three officials using justify-content-style done by Omari -->
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                     <div class="team-item">
-                        <div class="position-relative overflow-hidden">
+                        <div class="position-relative overflow-hidden tucodeteam">
                             <img class="img-fluid" src="../../public/img/jafari_pic_01.jpeg" alt="">
                         </div>
                         <div class="team-text">
@@ -27,7 +27,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                     <div class="team-item">
-                        <div class="position-relative overflow-hidden">
+                        <div class="position-relative overflow-hidden tucodeteam">
                             <img class="img-fluid" src="img/ohm_pic_4.jpeg" alt="">
                         </div>
                         <div class="team-text">
@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                     <div class="team-item">
-                        <div class="position-relative overflow-hidden">
+                        <div class="position-relative overflow-hidden tucodeteam">
                             <img class="img-fluid" src="../../public/img/awadh_kombo.jpeg" alt="">
                         </div>
                         <div class="team-text">
@@ -64,8 +64,8 @@
                 <!--Fourth column commented, will be uncommented if needed-->
                 <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                     <div class="team-item">
-                        <div class="position-relative overflow-hidden">
-                            <img class="img-fluid" src="img/ahmed.jpg" alt="" style="width: 100%; height: 300px">
+                        <div class="position-relative overflow-hidden tucodeteam">
+                            <img class="img-fluid" src="img/ahmed.jpg" alt="">
                         </div>
                         <div class="team-text">
                             <div class="bg-light">

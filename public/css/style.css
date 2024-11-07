@@ -585,3 +585,8 @@
 .footer .copyright a {
     color: var(--light);
 }
+
+.tucodeteam {
+    width: 100%;
+    height: 260px;
+}
