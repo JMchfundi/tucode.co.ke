@@ -42,7 +42,7 @@
             </div>
             <div class="ms-3">
               <p class="fs-5 fw-medium mb-2 text-light">Call us at</p>
-              <h3 class="m-0 text-secondary"><a href="tel:+254 746 512687" style="text-decoration: none; color: aliceblue;">+254(0) 746 512687</a></h3>
+              <h3 class="m-0 text-secondary"><a href="tel:+254 715 457944" style="text-decoration: none; color: aliceblue;">+254(0) 715 457944</a></h3>
             </div>
           </div>
         </div>

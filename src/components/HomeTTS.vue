@@ -66,7 +66,7 @@
                     </div>
                     <div class="ms-3">
                         <p class="mb-1 text-white">Available on contact:</p>
-                        <h5 class="m-0 text-secondary">+254 746 512687</h5>
+                        <h5 class="m-0 text-secondary">+254 715 457944</h5>
                     </div>
                 </div>
             </div>
@@ -202,7 +202,7 @@
                         </div>
                         <div class="ms-3">
                             <p class="fs-5 fw-medium mb-2 text-light">Call us at</p>
-                            <h3 class="m-0 text-secondary">+254 746 512687</h3>
+                            <h3 class="m-0 text-secondary">+254 715 457944</h3>
                         </div>
                     </div>
                 </div>
@@ -559,7 +559,7 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Address</h4>
                     <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>Likoni, County 001, KENYA</p>
-                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 746 512687</p>
+                    <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+254 715 457944</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>info@tucode.co.ke</p>
                     <div class="d-flex pt-2">
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-twitter"></i></a>
