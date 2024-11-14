@@ -18,9 +18,9 @@
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Opening Hours</h4>
                     <h6 class="text-light">Monday - Friday:</h6>
-                    <p class="mb-4">09.00 AM - 09.00 PM</p>
-                    <h6 class="text-light">Saturday - Sunday:</h6>
-                    <p class="mb-0">09.00 AM - 12.00 PM</p>
+                    <p class="mb-4">09.00 AM - 04.00 PM (EAT) </p>
+                    <h6 class="text-light">Saturday - Sunday</h6>
+                    <p class="mb-0">Off-Site</p>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Services</h4>
